@@ -21,16 +21,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JhonGutang&show_icons=true&theme=radical&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JhonGutang&theme=radical&hide_border=true" />
-</p>
-
----
-
 ### 🔗 Connect With Me
 
 - 📧 **Email:** jhonbarrydgutang@gmail.com  
