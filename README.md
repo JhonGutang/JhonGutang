@@ -1,56 +1,47 @@
-<!-- FULL OVERLAY BACKGROUND SECTION -->
-<div style="position: relative; height: 800px; overflow: hidden;">
-  <!-- Content Overlay -->
-  <div style="position: relative; z-index: 2; text-align: center; padding: 50px;">
+<div align="center">
 
-  <h1 style="color: #FFFFFF; text-shadow: 0 0 6px rgba(255,255,255,0.6);">👾 Jhon Barry D. Gutang — 改善</h1>
-  <p style="color: #FFFFFF; text-shadow: 0 0 6px rgba(255,255,255,0.5);"><i>Continuous Improvement • Code • Curiosity</i></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:64748B,100:0F172A&height=180&section=header&text=Jhon%20Barry%20D.%20Gutang&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40&fontFamily=Fira+Code" width="100%"/>
 
-  ---
+<i>改善 · Continuous Improvement · Code · Curiosity</i>
 
-  ### About Me
+</div>
 
-  <p style="color: #FFFFFF; text-shadow: 0 0 6px rgba(255,255,255,0.4);">
-  Also known as <b>Jhon Barry</b><br/>
-  Addicted to <b>Games</b> and <b>Software Engineering</b> without getting crazy<br/>
-  Currently exploring <b>full-stack architectures & system design</b>
-  </p>
+<br/>
 
-  ---
+I build and ship full applications end to end: APIs, data models, and the interfaces on top of them. Comfortable in .NET and PHP on the server, and in whichever of the three big frontend frameworks the project already picked. I like clean schemas, boring deploys, and code that the next person can read.
 
-  ### Tech Arsenal
 
-  <p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
-    <br/>
-    <img src="https://img.shields.io/badge/Vue-42B883?style=for-the-badge&logo=vue.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
-    <br/>
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-    <br/>
-    <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-    <img src="https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=icloud&logoColor=white" />
-    <img src="https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white" />
-    <br/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  </p>
+## Tech Stack
 
-  ---
+**Frontend**
+<div style="max-width:480px;">
+<img src="https://img.shields.io/badge/HTML5-64748B?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-64748B?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-64748B?style=flat-square&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/Vue-64748B?style=flat-square&logo=vue.js&logoColor=white" /> <img src="https://img.shields.io/badge/React-64748B?style=flat-square&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Angular-64748B?style=flat-square&logo=angular&logoColor=white" /> <img src="https://img.shields.io/badge/Blazor-64748B?style=flat-square&logo=blazor&logoColor=white" />
+</div>
 
-  ### Connect With Me
+**Backend**
+<div style="max-width:480px;">
+<img src="https://img.shields.io/badge/PHP-0F172A?style=flat-square&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-0F172A?style=flat-square&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-0F172A?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/.NET-0F172A?style=flat-square&logo=dotnet&logoColor=white" />
+</div>
 
-  <p>
-    <a href="mailto:jhonbarrydgutang@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://linkedin.com/in/jhongutang"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  </p>
+**Data & APIs**
+<div style="max-width:480px;">
+<img src="https://img.shields.io/badge/Prisma-334155?style=flat-square&logo=prisma&logoColor=white" /> <img src="https://img.shields.io/badge/REST-334155?style=flat-square&logo=icloud&logoColor=white" /> <img src="https://img.shields.io/badge/GraphQL-334155?style=flat-square&logo=graphql&logoColor=white" /> <img src="https://img.shields.io/badge/tRPC-334155?style=flat-square&logo=trpc&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-334155?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-334155?style=flat-square&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-334155?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-334155?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MSSQL-334155?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+</div>
 
-  <p style="color: #FFFFFF; text-shadow: 0 0 6px rgba(255,255,255,0.4);"><i>⚙️ Crafting code with precision and purpose.</i> 🚀</p>
+**Tools**
+<div style="max-width:480px;">
+<img src="https://img.shields.io/badge/Git-1E293B?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-1E293B?style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-1E293B?style=flat-square&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Swagger-1E293B?style=flat-square&logo=swagger&logoColor=white" /> <img src="https://img.shields.io/badge/Scalar-1E293B?style=flat-square&logo=scalar&logoColor=white" /> <img src="https://img.shields.io/badge/Odoo-1E293B?style=flat-square&logo=odoo&logoColor=white" />
+</div>
 
-  </div>
+## Connect
+
+<a href="mailto:jhonbarrydgutang@gmail.com"><img src="https://img.shields.io/badge/Email-64748B?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/jhongutang"><img src="https://img.shields.io/badge/LinkedIn-64748B?style=flat-square&logo=linkedin&logoColor=white" /></a>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:64748B,100:0F172A&height=100&section=footer" width="100%"/>
+
 </div>
